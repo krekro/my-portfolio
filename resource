@@ -1,1 +1,1 @@
-source images for HTML
+This directory includes images for the html
